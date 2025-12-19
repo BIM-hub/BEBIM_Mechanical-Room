@@ -1,1 +1,1 @@
-# BEBIM_Virtual_Tour_N01
+# BEBIM_Mechanical Room
